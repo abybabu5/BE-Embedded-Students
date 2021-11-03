@@ -24,7 +24,7 @@
     "node-fetch": "^2.6.0",
     "nodemon": "^2.0.2",
     "pdfmake": "^0.1.63",
-    "validator": "^12.1.0",
+    "validator": "^13.7.0",
     "xml-js": "^1.6.11",
     "xmlbuilder": "^13.0.2"
   }
